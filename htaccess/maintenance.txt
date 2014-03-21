@@ -1,0 +1,6 @@
+# Maintenance
+Options +FollowSymlinks
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} !/maintenance/index.html$
+RewriteRule .* /maintenance/index.html [L]
