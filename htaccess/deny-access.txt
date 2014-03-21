@@ -1,0 +1,6 @@
+# Deny access
+Order Deny,Allow
+Deny from all
+
+# except from localhost
+Allow from 127.0.0.1
