@@ -1,0 +1,3 @@
+# Remove www
+RewriteCond %{HTTP_HOST} ^www.mywebsite.com$ [NC]
+RewriteRule ^(.*)$ http://mywebsite.com/$1 [R=301,L]
