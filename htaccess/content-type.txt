@@ -1,0 +1,3 @@
+#Content-type
+AddDefaultCharset UTF-8   
+AddDefaultCharset ISO-8859-1
