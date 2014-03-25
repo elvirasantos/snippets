@@ -1,0 +1,14 @@
+// mixin
+@mixin mystyle(){
+     background: #696969;
+}
+
+.header{
+     color: #fff;
+     @include mystyle();
+}
+
+.footer{
+     font-size: .9em;
+     @include mystyle();
+}
