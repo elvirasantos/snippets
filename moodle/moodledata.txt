@@ -1,0 +1,2 @@
+# Moodledata (outside of public_html)
+$CFG->dataroot  = '/home/database-user/moodledata';
