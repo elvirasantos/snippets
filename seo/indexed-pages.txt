@@ -1,0 +1,2 @@
+#Check pages of your site indexed by Google
+site:www.example.com
