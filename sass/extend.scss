@@ -1,0 +1,14 @@
+// extend
+.mystyle{
+     background: #696969;
+}
+
+.header{
+     color: #fff;
+     @extend .mystyle;
+}
+
+.footer{
+     font-size: .9em;
+     @extend .mystyle;
+}
