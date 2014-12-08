@@ -1,3 +1,4 @@
+<?php 
 // Locale (gettext/poedit settings)
 
 $lang = "es_ES";
@@ -7,3 +8,4 @@ setlocale(LC_ALL, $lang);
 bindtextdomain("messages", "locale");
 bind_textdomain_codeset('messages', 'UTF-8');
 textdomain("messages");
+ ?>

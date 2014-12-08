@@ -1,3 +1,6 @@
-appearance:none;
--moz-appearance:none; /* Firefox */
--webkit-appearance:none; /* Safari and Chrome */
+/* Disable default styles */
+select {
+	appearance:none;
+	-moz-appearance:none; /* Firefox */
+	-webkit-appearance:none; /* Safari and Chrome */	
+}

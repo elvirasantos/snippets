@@ -1,0 +1,6 @@
+Breakpoints
+320  × 	480  (mobile)
+480  × 	640  (small tablet)
+768  × 1024  (tablet - portrait)
+1024 × 	768  (tablet - landscape)
+1200 × 	800  (desktop)
